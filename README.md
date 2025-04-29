@@ -1,7 +1,3 @@
-Absolutely! Here's the full `README.md` content ready to **copy and paste** directly into your project:
-
----
-
 ```markdown
 # Face Mask Detection using Deep Learning 🎭
 
@@ -14,11 +10,16 @@ This project demonstrates a deep learning approach to detect face masks in real-
 ## 📂 Project Structure
 
 ```
-├── detect_mask_video.py       # Real-time detection using webcam
+├── detect_mask_video.py       # Real-time detection using webcam 
+
 ├── train_mask_detector.py     # Script to train the mask detection model
+
 ├── mask_detector.h5           # Trained model file
+
 ├── plot.png                   # Training loss and accuracy plot
+
 └── README.md                  # Project documentation
+
 ```
 
 ---
@@ -94,4 +95,4 @@ This will:
 
 ## ✍️ Author
 
-Developed by [Rohan Vayase]
+Developed by Rohan Vayase
